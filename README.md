@@ -1,4 +1,4 @@
-## kernel for Raspberry Pi
+## Kernel for Raspberry Pi
 
 ### Cross-compiling the kernel on Linux
 
@@ -44,7 +44,7 @@ mkdir mods
 INSTALL_MOD_PATH=mods make modules_install
 ```
 
-### Setting up an SD card with the compiled rt kernel
+### Setting up an SD card with the compiled kernel
 
 Copy kernel:
 
